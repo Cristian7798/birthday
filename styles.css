@@ -109,13 +109,13 @@ h4 {
   box-sizing: border-box;
   padding: 0 0 0 10px;
   z-index: -1;
-  margin-top: 70px;
+  margin-top: 20px;
 }
 
 .card .details p {
-  font-size: 15px;
+  font-size: 12px;
   line-height: 5px;
-  transform: rotate(-10deg);
+  transform: rotate(1deg);
   padding: 0 0 0 20px;
 }
 
@@ -123,6 +123,13 @@ h4 {
   text-align: center;
 }
 
-.text-right {
-  text-align: right;
+.text-center {
+  text-align: center;
+}
+
+.img-head {
+    width: 15%;
+    height: auto;
+    transform: rotate(1deg);
+    margin-left: 30px;
 }
